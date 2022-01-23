@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/drawable/radius.xml" value="0.1953125" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/drawable/radius3.xml" value="0.1953125" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/activity_add.xml" value="0.1" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/activity_alarm.xml" value="0.22" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/activity_all.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/activity_calendar.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/activity_scrap.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/activity_update.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/around_detail.xml" value="0.3333333333333333" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/listview_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/listview_layout2.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/local_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/layout/order_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/menu/info_menu.xml" value="0.22" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/menu/main_menu.xml" value="0.13999999999999999" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/menu/share_menu.xml" value="0.22" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/mipmap-anydpi-v26/ic_main1_round.xml" value="0.1" />
+        <entry key="..\:/Work/finalproject_20190973/ma02_20190973/app/src/main/res/mipmap-anydpi-v26/ic_main2.xml" value="0.1" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/drawable-anydpi/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/drawable/radius.xml" value="0.1953125" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/drawable/radius2.xml" value="0.134375" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/activity_add.xml" value="0.10555555555555556" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/activity_alarm.xml" value="0.14666666666666667" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/activity_all.xml" value="0.16354166666666667" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/activity_calendar.xml" value="0.22" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/activity_scrap.xml" value="0.16666666666666666" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/activity_update.xml" value="0.22" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/around_detail.xml" value="0.22" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/around_search.xml" value="0.22" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/listview_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/listview_layout2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/local_list.xml" value="0.4466666666666667" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/local_search.xml" value="0.22" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/my_toolbar.xml" value="0.22" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/order_layout.xml" value="0.16354166666666667" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/layout/toolbar_main.xml" value="0.1" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/menu/call_menu.xml" value="0.21428571428571427" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/menu/info_menu.xml" value="0.16354166666666667" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/menu/share_menu.xml" value="0.22" />
+        <entry key="..\:/Work/ma02_20190973/app/src/main/res/menu/slide_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/activity_add.xml" value="0.22" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/activity_alarm.xml" value="0.1" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/activity_all.xml" value="0.16666666666666666" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/activity_calendar.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/activity_update.xml" value="0.22" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/around_detail.xml" value="0.22" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/around_search.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/blog_list.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/blog_search.xml" value="0.17916666666666667" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/listview_layout.xml" value="0.22" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/local_list.xml" value="0.3333333333333333" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/local_search.xml" value="0.22" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/layout/order_layout.xml" value="0.16354166666666667" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/menu/infoMenu.xml" value="0.1" />
+        <entry key="..\:/Work/mobileApplication/test6/Yum-Yum-master/MA02_20170915/app/src/main/res/menu/search.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

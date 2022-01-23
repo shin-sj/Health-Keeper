@@ -1,0 +1,237 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ddwu.mobile.final_project.ma02_20190973"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:6:5-8:35
+12        android:name="android.hardware.camera"
+12-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:7:9-47
+13        android:required="true" />
+13-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:8:9-32
+14
+15    <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" -->
+16    <!-- android:maxSdkVersion="18"/> -->
+17    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" -->
+18    <!-- android:maxSdkVersion="18"/>        &lt;!&ndash; 앱전용외부저장소에 저장 시 안드로이드 4.4 버전 이하일 경우 권한 설정 필요 &ndash;&gt; -->
+19
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:15:5-80
+20-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:15:22-77
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:16:5-81
+21-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:16:22-78
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:18:5-79
+22-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:18:22-76
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:19:5-66
+23-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:19:22-64
+24    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+24-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:21:5-81
+24-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:21:22-78
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:22:5-79
+25-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:22:22-76
+26
+27    <!-- 전화 -->
+28    <uses-permission android:name="android.permission.VIBRATE" />
+28-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:86:5-65
+28-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:86:22-63
+29    <uses-permission android:name="android.permission.CALL_PHONE" />
+29-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:87:5-68
+29-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:87:22-66
+30    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+30-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:10:5-76
+30-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:10:22-73
+31
+32    <uses-feature
+32-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+33        android:glEsVersion="0x00020000"
+33-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+34        android:required="true" />
+34-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+35
+36    <application
+36-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:24:5-83:19
+37        android:allowBackup="true"
+37-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:25:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.5.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\062235506723b4139567f7f9df5c99ab\core-1.5.0\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_main1"
+40-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:26:9-40
+41        android:label="@string/app_name"
+41-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:27:9-41
+42        android:roundIcon="@mipmap/ic_main1_round"
+42-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:28:9-51
+43        android:supportsRtl="true"
+43-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:29:9-35
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme" >
+45-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:30:9-40
+46        <provider
+46-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:33:9-41:20
+47            android:name="androidx.core.content.FileProvider"
+47-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:34:13-62
+48            android:authorities="ddwu.mobile.final_project.ma02_20190973.fileprovider"
+48-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:35:13-87
+49            android:exported="false"
+49-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:36:13-37
+50            android:grantUriPermissions="true" >
+50-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:37:13-47
+51            <meta-data
+51-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:38:13-40:64
+52                android:name="android.support.FILE_PROVIDER_PATHS"
+52-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:39:17-67
+53                android:resource="@xml/file_paths" />
+53-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:40:17-51
+54        </provider>
+55
+56        <activity android:name="ddwu.mobile.final_project.ma02_20190973.MainActivity" >
+56-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:43:9-49:20
+56-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:43:19-86
+57            <intent-filter>
+57-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:44:13-48:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:45:17-69
+58-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:45:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:47:17-77
+60-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:47:27-74
+61            </intent-filter>
+62        </activity>
+63
+64        <service
+64-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:51:9-53:39
+65            android:name="ddwu.mobile.final_project.ma02_20190973.FetchLatLngIntentService"
+65-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:52:13-92
+66            android:exported="false" />
+66-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:53:13-37
+67
+68        <meta-data
+68-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:55:9-57:47
+69            android:name="com.google.android.geo.API_KEY"
+69-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:56:13-58
+70            android:value="@string/api_key" />
+70-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:57:13-44
+71
+72        <activity android:name="ddwu.mobile.final_project.ma02_20190973.AllActivity" />
+72-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:59:9-87
+72-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:59:19-85
+73        <activity android:name="ddwu.mobile.final_project.ma02_20190973.AddActivity" />
+73-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:60:9-87
+73-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:60:19-85
+74        <activity android:name="ddwu.mobile.final_project.ma02_20190973.MyAlarm" >
+74-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:61:9-62:20
+74-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:61:19-81
+75        </activity>
+76        <activity android:name="ddwu.mobile.final_project.ma02_20190973.CalendarActivity" />
+76-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:63:9-92
+76-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:63:19-90
+77        <activity android:name="ddwu.mobile.final_project.ma02_20190973.ScrapActivity" />
+77-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:64:9-89
+77-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:64:19-87
+78        <activity android:name="ddwu.mobile.final_project.ma02_20190973.UpdateActivity" >
+78-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:65:9-74:20
+78-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:65:19-88
+79            <intent-filter>
+79-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:66:13-73:29
+80                <action android:name="android.intent.action.VIEW" />
+80-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:67:17-69
+80-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:67:25-66
+81
+82                <category android:name="android.intent.category.DEFAULT" />
+82-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:68:17-76
+82-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:68:27-73
+83                <category android:name="android.intent.category.BROWSABLE" />
+83-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:69:17-78
+83-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:69:27-75
+84
+85                <data
+85-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:71:17-72:61
+86                    android:host="@string/kakaolink_host"
+86-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:72:21-58
+87                    android:scheme="@string/kakao_scheme" />
+87-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:71:23-60
+88            </intent-filter>
+89        </activity>
+90
+91        <meta-data
+91-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:75:9-77:53
+92            android:name="com.kakao.sdk.AppKey"
+92-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:76:13-48
+93            android:value="@string/kakao_app_key" />
+93-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:77:13-50
+94
+95        <activity android:name="ddwu.mobile.final_project.ma02_20190973.L_Activity" />
+95-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:79:9-86
+95-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:79:19-84
+96        <activity android:name="ddwu.mobile.final_project.ma02_20190973.DetailActivity" />
+96-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:80:9-90
+96-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:80:19-88
+97        <activity android:name="ddwu.mobile.final_project.ma02_20190973.AroundActivity" />
+97-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:81:9-90
+97-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:81:19-88
+98
+99        <receiver android:name="ddwu.mobile.final_project.ma02_20190973.AlarmReceiver" />
+99-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:82:9-50
+99-->C:\Work\finalproject_20190973\ma02_20190973\app\src\main\AndroidManifest.xml:82:19-48
+100
+101        <activity
+101-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:14:9-20:20
+102            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+102-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:15:13-91
+103            android:exported="false"
+103-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:16:13-37
+104            android:label="@string/places_autocomplete_label"
+104-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:17:13-62
+105            android:theme="@style/PlacesAutocompleteOverlay"
+105-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:18:13-61
+106            android:windowSoftInputMode="adjustResize" >
+106-->[com.google.android.libraries.places:places:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\864b2cf1352d1defb28913dcf22ac0e2\places-2.1.0\AndroidManifest.xml:19:13-55
+107        </activity> <!-- Needs to be explicitly declared on P+ -->
+108        <uses-library
+108-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+109            android:name="org.apache.http.legacy"
+109-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+110            android:required="false" />
+110-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\71410d59386dba98cbe61d29bc62f196\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+111
+112        <activity
+112-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\291563c6708268cf4683b088770f2b39\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+113            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+113-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\291563c6708268cf4683b088770f2b39\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+114            android:exported="false"
+114-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\291563c6708268cf4683b088770f2b39\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+115            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+115-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\291563c6708268cf4683b088770f2b39\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+116
+117        <meta-data
+117-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\7fec4cbef526a4022f0390f00f3435d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+118            android:name="com.google.android.gms.version"
+118-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\7fec4cbef526a4022f0390f00f3435d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+119            android:value="@integer/google_play_services_version" />
+119-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\7fec4cbef526a4022f0390f00f3435d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+120
+121        <provider
+121-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+122            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+122-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+123            android:authorities="ddwu.mobile.final_project.ma02_20190973.lifecycle-process"
+123-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+124            android:exported="false"
+124-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+125            android:multiprocess="true" />
+125-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\82105\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+126    </application>
+127
+128</manifest>

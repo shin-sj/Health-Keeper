@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="my_images" path="Android/data/ddwu.mobile.final_project.ma02_20190973/files/Pictures" />
+    <!-- <external-path name="my_images" path="Pictures" /> -->   <!-- 외부저장소의 공용폴더에 저장할 때 사용-->
+</paths>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/record"-->
+<!--        android:onClick="onRecordClick"-->
+<!--        android:title="진료기록" />-->
+<!--    <item-->
+<!--        android:id="@+id/scrap"-->
+<!--        android:onClick="onScrapClick"-->
+<!--        android:title="스크랩목록" />-->
+<!--    <item-->
+<!--        android:id="@+id/search_hospital"-->
+<!--        android:onClick="onSearchClick"-->
+<!--        android:title="병원검색" />-->
+    <item
+        android:id="@+id/intro_dev"
+        android:onClick="onMenuDevClick"
+        android:title="개발자소개" />
+    <item
+        android:id="@+id/app_end"
+        android:onClick="onMenuExitClick"
+        android:title="돌아가기" />
+</menu>
